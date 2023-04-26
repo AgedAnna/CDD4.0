@@ -1,6 +1,6 @@
 '''
-Faça um código para ler um vetor de 10 números. Após isto, ler mais um número
-qualquer, calcular e escrever quantas vezes esse número aparece no vetor.
+Faça um código para ler um vetor de 10 números. Após isto, ler mais um número qualquer, calcular e escrever
+quantas vezes esse número aparece no vetor.
 '''
 
 v=[]
