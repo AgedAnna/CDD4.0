@@ -1,0 +1,27 @@
+
+variavel= espaço armazenado na memória
+
+variavel= muda durante a execução do código constante= não muda durante a execução do código
+
+variavel:
+simples= só recebe um valor por vez
+composta = recebe mais de um valor, de um único tipo int, float ou str (array precisa ter o limite de dados)
+
+operadores lógicos = or and not
+operadores relacionais = › ‹ = ! 
+operadores artméticos + - * / ^ %
+
+
+Tomada de decisão:
+else if, else
+
+switch case: if, else if, else
+
+Laço de repetição:
+for = tem contador range(começa, termina, de quanto em quanto), sei a quantidade de repetições.
+while = precisa de um contador, não sei a quantidade de repetição.
+
+y=10
+print(++y) 11 - primeiro ele soma e mostra o resultado
+print(y++) 11 - ele imprime e no prox comando mostra o resultado
+print(y) 12
